@@ -12,7 +12,14 @@ export PATH="/opt/homebrew/bin:$PATH"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # ZSH_THEME="powerlevel10k/powerlevel10k"
 ZSH_THEME=""
+
+# Load Oh My Zsh
+source $ZSH/oh-my-zsh.sh
+
 source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
+
+# Source your Powerlevel10k config (chezmoi-managed)
+[[ -r ~/.p10k.zsh ]] && source ~/.p10k.zsh
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
