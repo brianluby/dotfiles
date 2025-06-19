@@ -42,7 +42,8 @@ Use Homebrew to install the tools you need. For example:
 brew install git
 brew install --cask 1password
 ```
-You can also maintain a `Brewfile` and run `brew bundle` to install a list of packages.
+This repository includes a `Brewfile` that lists recommended packages and casks.
+Run `brew bundle` from the repository directory to install everything in that file.
 
 ## Configuring 1Password secret retrieval
 
