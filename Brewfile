@@ -15,6 +15,7 @@ brew "zoxide"
 brew "podman"
 brew "podman-compose"
 brew "podman-tui"
+brew "llama.cpp"
 
 
 # Casks for GUI applications
