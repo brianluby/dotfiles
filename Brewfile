@@ -12,7 +12,12 @@ brew "speedtest-cli"
 brew "tmux"
 brew "zns"
 brew "zoxide"
+brew "podman"
+brew "podman-compose"
+brew "podman-tui"
 
+
+# Casks for GUI applications
 cask "1password"
 cask "1password-cli"
 cask "visual-studio-code"
@@ -20,3 +25,4 @@ cask "iterm2"
 cask "protonvpn"
 cask "font-fira-mono-nerd-font"
 cask "textmate"
+cask "podman-desktop"
