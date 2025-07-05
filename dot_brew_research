@@ -1,3 +1,11 @@
 # Possible brews/casks to install
 
+# Brews
 yek - https://github.com/bodo-run/yek
+gemini-cli - https://github.com/google-gemini/gemini-cli
+claude-squad - https://smtg-ai.github.io/claude-squad/
+aider - https://aider.chat/
+charmbracelet - https://github.com/charmbracelet/mods
+
+# Casks
+claude - https://claude.ai/download
