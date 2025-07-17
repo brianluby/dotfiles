@@ -1,5 +1,6 @@
 # Homebrew packages and casks for setting up a new machine
 
+brew "age"
 brew "git"
 brew "chezmoi"
 brew "eza"
