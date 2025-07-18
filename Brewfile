@@ -19,6 +19,7 @@ brew "llama.cpp"
 # Casks for GUI applications
 cask "1password"
 cask "1password-cli"
+cask "kiro"
 cask "visual-studio-code"
 cask "iterm2"
 cask "protonvpn"
